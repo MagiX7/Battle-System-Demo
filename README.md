@@ -18,4 +18,6 @@ If you want to defense, just select "Guard".
 
 And to use items, select "Items".
 
+---
 
+PS: Make sure to turn down the volume of the game, we already had a heart attack :)
