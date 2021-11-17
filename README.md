@@ -1,7 +1,8 @@
 # Battle-System-Demo
 
 ## How to use
-Everything you need to do to get the demo working is just launch the Game.exe and select the option "New Game".
+Everything you need to do to get the demo working is just launching the Game.exe and select the option "New Game".
+Everything is controlled through the keyboard.
 
 ## Once in the game
 Once you are in the game, to trigger the battle you should move downwards and it will automatically trigger.
